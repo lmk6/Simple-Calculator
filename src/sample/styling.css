@@ -1,0 +1,11 @@
+* {
+    -fx-background-color: rgb(69, 91, 128);
+    -fx-font-family: "Franklin Gothic Heavy";
+    -fx-font-weight: bold;
+    -fx-font-size: 25pt;
+}
+
+.button:hover {
+    -fx-background-color: #1c283d;
+    -fx-text-fill: white;
+}

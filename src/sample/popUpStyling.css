@@ -1,0 +1,16 @@
+* {
+    -fx-background-color: #e01616;
+    -fx-font-family: "Franklin Gothic Heavy";
+    -fx-text-fill: white;
+    -fx-font-size: 15pt;
+}
+
+.okButton {
+    -fx-background-color: #7d0909;
+    -fx-font-size: 25pt;
+}
+
+.okButton:hover {
+    -fx-text-fill: black;
+    -fx-background-color: #992c2c;
+}

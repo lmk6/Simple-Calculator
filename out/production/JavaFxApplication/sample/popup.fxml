@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="113.0" prefWidth="298.0" stylesheets="@../sample/popUpStyling.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.PopUpController">
+    <Button fx:id="closeButton" alignment="CENTER" layoutX="112.0" layoutY="57.0" mnemonicParsing="false" onAction="#clickTheButton" prefHeight="48.0" prefWidth="75.0" styleClass="okButton" text="OK" />
+    <Label alignment="CENTER" contentDisplay="CENTER" layoutX="14.0" layoutY="14.0" prefHeight="29.0" prefWidth="271.0" text="You cannot divide by ZERO!!" textAlignment="CENTER" wrapText="true" />
+</AnchorPane>
